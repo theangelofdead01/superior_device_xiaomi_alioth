@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_alioth.mk
+    $(LOCAL_DIR)/superior_alioth.mk
 
 COMMON_LUNCH_CHOICES := \
     superior_alioth-user \
